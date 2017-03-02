@@ -1,5 +1,5 @@
 <?php
-namespace mytest\test;
+namespace mytest;
 /**
 * 
 */
