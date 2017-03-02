@@ -10,7 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},y
+    "require": {},
     "autoload": {
         "psr-4": {"mytest\\test\\": "src/"}
     }
