@@ -1,0 +1,14 @@
+{
+    "name": "mytest/test",
+    "description": "this is mytest",
+    "type": "library",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "longer",
+            "email": "1291434319@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
